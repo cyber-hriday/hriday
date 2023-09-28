@@ -26,7 +26,7 @@ blue = "\033[1;35m"
 bannerID = f"""{white}   [ Version : {green}0.0.1{white} ]
 	  d888b         d88b        d8888b  
 	 88  Y8b       8P  d8       88   8D 
-{blue}	 88           88    88      88   88 
+{blue}	 88           88    88      88   8HRIDAY8 
 	 88  ooo      88    88      88   88 
 {white}	 88   88       8b  d8       88   8D 
 	  Y888P         Y88P        Y8888D"""
